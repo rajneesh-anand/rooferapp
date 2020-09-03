@@ -49,7 +49,8 @@ class MainActivity : AppCompatActivity(),RecyclerAdapter.OnSubTotalListener{
 
 
     override fun onSubTotalUpdate(grandTotal: Double) {
-        binding.grandTotal.text = getString(R.string.grand_total_amt,grandTotal)
+
+        binding.grandTotal.text = "$ $grandTotal"
     }
 
 }
