@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Roofers</string>
+    <string name="captain_ameraica">Captain Ameraica</string>
+    <string name="rating">Rating</string>
+    <string name="unit_p">Unit Cost</string>
+    <string name="qty">Qnty</string>
+    <string name="total">$ %.2f</string>
+    <string name="grand_total">GRAND TOTAL </string>
+    <string name="grand_total_amt">$ 0.00</string>
+</resources>
